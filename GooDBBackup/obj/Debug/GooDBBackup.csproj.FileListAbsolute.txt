@@ -1,0 +1,11 @@
+C:\Users\Oofdui\Dropbox\MyProject\Application\GooDBBackup\GooDBBackup\bin\Debug\GooDBBackup.exe.config
+C:\Users\Oofdui\Dropbox\MyProject\Application\GooDBBackup\GooDBBackup\bin\Debug\GooDBBackup.exe
+C:\Users\Oofdui\Dropbox\MyProject\Application\GooDBBackup\GooDBBackup\bin\Debug\GooDBBackup.pdb
+C:\Users\Oofdui\Dropbox\MyProject\Application\GooDBBackup\GooDBBackup\bin\Debug\MySql.Data.dll
+C:\Users\Oofdui\Dropbox\MyProject\Application\GooDBBackup\GooDBBackup\obj\Debug\GooDBBackup.csprojResolveAssemblyReference.cache
+C:\Users\Oofdui\Dropbox\MyProject\Application\GooDBBackup\GooDBBackup\obj\Debug\GooDBBackup.Default.resources
+C:\Users\Oofdui\Dropbox\MyProject\Application\GooDBBackup\GooDBBackup\obj\Debug\GooDBBackup.Properties.Resources.resources
+C:\Users\Oofdui\Dropbox\MyProject\Application\GooDBBackup\GooDBBackup\obj\Debug\GooDBBackup.csproj.GenerateResource.Cache
+C:\Users\Oofdui\Dropbox\MyProject\Application\GooDBBackup\GooDBBackup\obj\Debug\GooDBBackup.exe
+C:\Users\Oofdui\Dropbox\MyProject\Application\GooDBBackup\GooDBBackup\obj\Debug\GooDBBackup.pdb
+C:\Users\Oofdui\Dropbox\MyProject\Application\GooDBBackup\GooDBBackup\bin\Debug\MySqlBackup.dll
